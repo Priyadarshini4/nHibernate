@@ -1,0 +1,5 @@
+F:\Projects\nHibernate\nHibernate\bin\Debug\nHibernate.exe.config
+F:\Projects\nHibernate\nHibernate\obj\Debug\nHibernate.csprojResolveAssemblyReference.cache
+F:\Projects\nHibernate\nHibernate\obj\Debug\nHibernate.Form1.resources
+F:\Projects\nHibernate\nHibernate\obj\Debug\nHibernate.Properties.Resources.resources
+F:\Projects\nHibernate\nHibernate\obj\Debug\nHibernate.csproj.GenerateResource.Cache
